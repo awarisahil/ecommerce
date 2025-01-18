@@ -5,7 +5,7 @@ A simple e-commerce website built with **React** and integrated with the **Platz
 Users can browse products, add items to the cart, and proceed to a mock checkout.
 
 ## Live Demo
-[Live Website](ecommerce-gules-alpha-48.vercel.app)
+[Live Website](https://ecommerce-5mwrmug6t-sahils-projects-4753cb52.vercel.app/)
 
 
 - **React** (Frontend)
